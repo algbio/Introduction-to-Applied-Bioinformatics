@@ -6,4 +6,6 @@ The materials are released under the [Creative Commons Attribution 4.0 Internati
 
 If you want to suggest an edit, [open an issue](https://github.com/algbio/Introduction-to-Applied-Bioinformatics/issues), or send an e-mail to [alexandru.tomescu@helsinki.fi](alexandru.tomescu@helsinki.fi).
 
+### See [https://github.com/algbio/teaching-materials/](https://github.com/algbio/teaching-materials/) for more teaching materials from our group.
+
 ### If you use the material, please sign the guestbook by leaving a comment in [this github issue](https://github.com/algbio/teaching-materials/issues/1#issue-590171328).
