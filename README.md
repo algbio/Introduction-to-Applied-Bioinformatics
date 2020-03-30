@@ -1,4 +1,4 @@
-# Genome Assembly - From theory to practice (and back)
+# Genome assembly - From theory to practice (and back)
 
 This repository contains a lecture on genome assembly, given in a course entitled "Introduction to Applied Bioinformatics", for Life Science Informatics Master students.
 
